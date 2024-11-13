@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Mercury",
+        "orbit_radius": 100,
+        "planet_size": 10,
+        "orbit_speed": 2,
+        "density": 1555555
+    },
+    {
+        "name": "Venus",
+        "orbit_radius": 150,
+        "planet_size": 14,
+        "orbit_speed": 1.5,
+        "density": 30
+    },
+    {
+        "name": "Earth",
+        "orbit_radius": 200,
+        "planet_size": 16,
+        "orbit_speed": 1.2,
+        "density": 45
+    },
+    {
+        "name": "Mars",
+        "orbit_radius": 250,
+        "planet_size": 12,
+        "orbit_speed": 1,
+        "density": 60
+    }
+]
